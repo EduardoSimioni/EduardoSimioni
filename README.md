@@ -27,7 +27,9 @@
 
 <a href="https://github.com/EduardoSimioni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSimioni&theme=dracula&show_icons=true" />
-</a>
+</a> 
+
+<br/>
 
 <a href="https://github.com/EduardoSimioni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosimioni&theme=dracula&hide_langs_below=1" />
