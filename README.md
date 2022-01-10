@@ -9,9 +9,10 @@
 
 **Aplicações e Dados**
   
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
 **DevOps**
 
@@ -39,7 +40,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Gmail Badge](https://img.shields.io/badge/-simioni894@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simioni894@gmail.com)](mailto:simioni894@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-simioni894@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simioni894@gmail.com)](mailto:eduardocarmelino.contato@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/EduardoSimioni?label=follow&style=social)](https://github.com/EduardoSimioni/EduardoSimioni)
 
 
