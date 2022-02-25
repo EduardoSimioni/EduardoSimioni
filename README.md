@@ -43,7 +43,7 @@ Sinta-se a vontade para me contatar por meio das redes para tirar dúvidas sobre
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Gmail Badge](https://img.shields.io/badge/-simioni894@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simioni894@gmail.com)](mailto:eduardocarmelino.contato@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-eduardocarmelino.contato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardocarmelino.contato@gmail.com)](mailto:eduardocarmelino.contato@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/EduardoSimioni?label=follow&style=social)](https://github.com/EduardoSimioni/EduardoSimioni)
   <a href="https://www.linkedin.com/in/eduardo-carmelino/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
