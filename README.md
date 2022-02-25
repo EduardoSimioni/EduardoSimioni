@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=EduardoSimioni&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 &nbsp; Aprendendo mais sobre JavaScript.
+Olá, me chamo Eduardo, tenho 18 anos e estudo sobre desenvolvimento a alguns meses, e meu foco atualmente é me tornar um desenvolvedor JavaScript Full Stack.
+Sinta-se a vontade para me contatar por meio das redes para tirar dúvidas sobre meus projetos ou fazer qualquer tipo de pergunta!
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
