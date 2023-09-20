@@ -2,9 +2,7 @@
 
 <h3> &nbsp;Sobre mim </h3>
 
-Olá, me chamo Eduardo, tenho 18 anos e estudo sobre desenvolvimento a alguns meses, e meu foco atualmente é me tornar um desenvolvedor JavaScript Full Stack.
-Sinta-se a vontade para me contatar por meio das redes para tirar dúvidas sobre meus projetos ou fazer qualquer tipo de pergunta!
-
+Olá, me chamo Eduardo, sou um desenvolvedor em busca do primeiro emprego na área. Sou estudante de análise e desenvolvimento de sistemas pela Unicesumar e faço parte da comunidade DevClub, um curso onde aprendemos sobre desenvolvimento web full stack do zero ao avançado. Aqui você vai encontrar um pouco sobre meus projetos pessoais.
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
@@ -27,12 +25,6 @@ Sinta-se a vontade para me contatar por meio das redes para tirar dúvidas sobre
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/EduardoSimioni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSimioni&theme=dracula&show_icons=true" />
-</a> 
 
 <br/>
 
